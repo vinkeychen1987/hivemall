@@ -6,6 +6,8 @@ Hivemall is designed to be scalable to the number of training instances as well 
 
 ![logo](https://raw.github.com/myui/hivemall/master/resources/hivemall-logo_s.png "Hivemall's cute(!?) logo")
 
+## Dear Hivemall stargazers/users, please [vote for Hivemall](https://hadoopsummit.uservoice.com/forums/242804-data-science-hadoop-track/suggestions/5568301-hivemall-scalable-machine-learning-library-for-ap) toward the Hadoop summit 2014! :-)
+
 Supported Algorithms
 --------------------
 
