@@ -98,11 +98,6 @@ Registration Number: [H25PRO-1520]
 
 Put the above copyrights for the services/softwares that use Hivemall.
 
-Support
--------
-
-We are evaluating [Gitter](https://gitter.im/myui/hivemall) beta service for a moment.
-
 References
 ----------
 
